@@ -51,6 +51,9 @@ After VPN Connection:
 Refresh https://www.whatismyipaddress.com
 You should now see a different IP address and location, confirming traffic is routing through the VPN.
 
+![image](https://github.com/user-attachments/assets/d17aa5e4-90f6-4557-b43e-de74a3075d94)
+
+
 ![image](https://github.com/user-attachments/assets/2cefe0b1-c32f-4a21-b553-7d8e7962b767)
 
 
